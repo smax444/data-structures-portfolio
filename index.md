@@ -6,7 +6,7 @@ Samuel Maxwell
 
 - [About Me](blog.md)
 - [Projects](projects.md)
-- [Resume](resume.md)
+- [Resume](Samuel_Maxwell_Resume1.pdf)
 - [LinkedIn](linkedin.md)
   ## Featured Project
 
