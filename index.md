@@ -7,7 +7,7 @@ Samuel Maxwell
 - [About Me](blog.md)
 - [Projects](projects.md)
 - [Resume](Samuel_Maxwell_Resume1.pdf)
-- [LinkedIn](www.linkedin.com/in/samsosmart)
+- [LinkedIn](www.linkedin.com/in/samsosmart/)
   ## Featured Project
 
 ### NFL Offensive Success Analysis
