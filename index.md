@@ -10,10 +10,10 @@ Samuel Maxwell
 - [LinkedIn](https://www.linkedin.com/in/samsosmart/)
   ## Featured Project
 
-### NFL Offensive Success Analysis
+## Project 2
 
-**Research Question:** Is having a stronger rushing offense or passing offense more likely to lead to success during an NFL season?
+### NFL Points Prediction Project
 
-This project will analyze the 2024 NFL season using Python, pandas, and an NFL statistics API.
+This project uses NFL team statistics and machine learning to predict how many points a team will score.
 
-[View Project](projects.md)
+[View Project 2](https://github.com/smax444/data-structures-portfolio/blob/main/pro2FINALFINALFINALFINALIHOOPE.ipynb)
